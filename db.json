@@ -1,16 +1,26 @@
 {
-  "posts":[
+  {
+        "location_name":"Ha Noi",
+        "region":"North Vietnam"
+    },
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+        "location_name":"Ha Giang",
+        "region":"North Vietnam"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+        "location_name":"Ha Long",
+        "region":"North Vietnam"
+    },
+    {
+        "location_name":"Ninh Binh",
+        "region":"North Vietnam"
+    },
+    {
+        "location_name":"Mai Chau",
+        "region":"North Vietnam"
+    },
+    {
+        "location_name":"Sapa",
+        "region":"North Vietnam"
     }
-  ]
 }

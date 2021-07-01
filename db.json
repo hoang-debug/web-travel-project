@@ -23,6 +23,54 @@
     {
         "location_name":"Sapa",
         "region":"North Vietnam"
-    }
+    },
+    {
+        "location_name":"Da Nang",
+        "region":"Central Vietnam"
+    },
+    {
+        "location_name":"Da Lat",
+        "region":"Central Vietnam"
+    },
+    {
+        "location_name":"Hoi An",
+        "region":"Central Vietnam"
+    },
+    {
+        "location_name":"Hue",
+        "region":"Central Vietnam"
+    },
+     {
+        "location_name":"Nha Trang",
+        "region":"Central Vietnam"
+    },
+    {
+        "location_name":"Phong Nha",
+        "region":"Central Vietnam"
+    },
+    {
+        "location_name":"Sai Gon",
+        "region":"South Vietnam"
+    },
+    {
+        "location_name":"Con Dao",
+        "region":"South Vietnam"
+    },
+    {
+        "location_name":"Mui Ne",
+        "region":"South Vietnam"
+    },
+    {
+        "location_name":"Can Tho",
+        "region":"South Vietnam"
+    },
+    {
+        "location_name":"Chau Doc",
+        "region":"South Vietnam"
+    },
+    {
+        "location_name":"Phu Quoc",
+        "region":"South Vietnam"
+    }, 
   ]
 }

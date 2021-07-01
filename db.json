@@ -1,4 +1,4 @@
-{
+[
     {
         "location_name":"Ha Noi",
         "region":"North Vietnam"
@@ -23,4 +23,4 @@
         "location_name":"Sapa",
         "region":"North Vietnam"
     }
-}
+]

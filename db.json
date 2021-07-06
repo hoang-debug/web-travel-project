@@ -7,71 +7,88 @@
     },
     {
         "location_name":"Ha Giang",
-        "region":"North Vietnam"
+        "region":"North Vietnam",
+        "url":"/Placetogo/index.html?location=Hà Giang"
     },
     {
         "location_name":"Ha Long",
-        "region":"North Vietnam"
+        "region":"North Vietnam",
+        "url":"/Placetogo/index.html?location=Hạ Long"
     },
     {
         "location_name":"Ninh Binh",
-        "region":"North Vietnam"
+        "region":"North Vietnam",
+        "url":"/Placetogo/index.html?location=Ninh Bình"
     },
     {
         "location_name":"Mai Chau",
-        "region":"North Vietnam"
+        "region":"North Vietnam",
+        "url":"/Placetogo/index.html?location=Mai Châu"
     },
     {
         "location_name":"Sapa",
-        "region":"North Vietnam"
+        "region":"North Vietnam",
+        "url":"/Placetogo/index.html?location=Sapa"
     },
     {
         "location_name":"Da Nang",
-        "region":"Central Vietnam"
+        "region":"Central Vietnam",
+        "url":"/Placetogo/index.html?location=Đà Nẵng"
     },
     {
         "location_name":"Da Lat",
-        "region":"Central Vietnam"
+        "region":"Central Vietnam",
+        "url":"/Placetogo/index.html?location=Đà Lạt"
     },
     {
         "location_name":"Hoi An",
-        "region":"Central Vietnam"
+        "region":"Central Vietnam",
+        "url":"/Placetogo/index.html?location=Hội An"
     },
     {
         "location_name":"Hue",
-        "region":"Central Vietnam"
+        "region":"Central Vietnam",
+        "url":"/Placetogo/index.html?location=Huế"
     },
      {
         "location_name":"Nha Trang",
-        "region":"Central Vietnam"
+        "region":"Central Vietnam",
+         "url":"/Placetogo/index.html?location=Nha Trang"
     },
     {
         "location_name":"Phong Nha",
-        "region":"Central Vietnam"
+        "region":"Central Vietnam",
+        "url":"/Placetogo/index.html?location=Phong Nha"
     },
     {
         "location_name":"Sai Gon",
-        "region":"South Vietnam"
+        "region":"South Vietnam",
+        "url":"/Placetogo/index.html?location=Sài Gòn"
     },
     {
         "location_name":"Con Dao",
-        "region":"South Vietnam"
+        "region":"South Vietnam",
+        "url":"/Placetogo/index.html?location=Côn Đảo"
     },
     {
         "location_name":"Mui Ne",
-        "region":"South Vietnam"
+        "region":"South Vietnam",
+        "url":"/Placetogo/index.html?location=Mũi Né"
     },
     {
         "location_name":"Can Tho",
-        "region":"South Vietnam"
+        "region":"South Vietnam",
+        "url":"/Placetogo/index.html?location=Cần Thơ"
     },
     {
         "location_name":"Chau Doc",
-        "region":"South Vietnam"
+        "region":"South Vietnam",
+        "url":"/Placetogo/index.html?location=Châu Đốc"
     },
     {
         "location_name":"Phu Quoc",
-        "region":"South Vietnam"
+        "region":"South Vietnam",
+        "url":"/Placetogo/index.html?location=Phú Quốc"
     }
   ]
 }

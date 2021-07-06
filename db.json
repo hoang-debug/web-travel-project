@@ -2,7 +2,8 @@
     "travel":[
     {
         "location_name":"Ha Noi",
-        "region":"North Vietnam"
+        "region":"North Vietnam",
+        "url":"/Placetogo/index.html?location=Hà Nội"
     },
     {
         "location_name":"Ha Giang",

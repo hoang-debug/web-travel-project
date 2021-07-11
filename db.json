@@ -28,7 +28,7 @@
     {
         "location_name":"Sapa",
         "region":"North Vietnam",
-        "url":"/Placetogo/index.html?location=Sapa"
+        "url":"/Placetogo/index.html?location=SaPa"
     },
     {
         "location_name":"Da Nang",
@@ -63,12 +63,12 @@
     {
         "location_name":"Sai Gon",
         "region":"South Vietnam",
-        "url":"/Placetogo/index.html?location=Sài Gòn"
+        "url":"/Placetogo/index.html?location=Thành Phố Hồ Chí Minh"
     },
     {
         "location_name":"Con Dao",
         "region":"South Vietnam",
-        "url":"/Placetogo/index.html?location=Côn Đảo"
+        "url":"/Placetogo/index.html?location=Con Son"
     },
     {
         "location_name":"Mui Ne",
@@ -83,12 +83,12 @@
     {
         "location_name":"Chau Doc",
         "region":"South Vietnam",
-        "url":"/Placetogo/index.html?location=Châu Đốc"
+        "url":"/Placetogo/index.html?location=Cho Dok
     },
     {
         "location_name":"Phu Quoc",
         "region":"South Vietnam",
-        "url":"/Placetogo/index.html?location=Phú Quốc"
+        "url":"/Placetogo/index.html?location=Duong Gjong"
     }
   ]
 }
